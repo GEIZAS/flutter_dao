@@ -1,6 +1,7 @@
 # flutter_dao v.0.0.1
 
 Flutter Data Access Object
+.on [pub.dev](https://pub.dev/packages/flutter_dao)
 
 ## Getting Started
 
